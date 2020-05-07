@@ -1,5 +1,5 @@
 monaca・二フクラmobile backendを使い　OnsenUIフレームワークのシングルページアプリの開発を行いました。
-二フクラmobile backendのデータストアに単語データを保存・取得することによって単語アプリとして機能します。
+二フクラmobile backendのデータストアを使い単語データを保存・取得することによって単語アプリとして機能します。
 
 下記がURLからアプリのdownloadが可能です。
 https://monaca.education/en/directimport?pid=5eb001b4e78885b1547b7198
