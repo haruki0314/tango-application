@@ -4,6 +4,7 @@ monaca・二フクラmobile backendを使い　OnsenUIフレームワークの�
 
 下記がURLからアプリのdownloadが可能です。
 https://monaca.education/en/directimport?pid=5f28001ee7888553319a1592
+
 動画内が一つ添付されていますが、動作確認の映像です。
 ___
 ※問題は1題につき、答えを一つしか入れることができません。
