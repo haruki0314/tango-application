@@ -3,8 +3,7 @@ monaca・二フクラmobile backendを使い　OnsenUIフレームワークの�
 二フクラmobile backendのデータストアへ単語データを保存・取得することによって単語アプリとして機能します。
 
 下記がURLからアプリのdownloadが可能です。
-https://monaca.education/en/directimport?pid=5eb3ca4ce78885495d7b7195
-
+https://monaca.education/en/directimport?pid=5f28001ee7888553319a1592
 ___
 ※問題は1題につき、答えを一つしか入れることができません。
 
