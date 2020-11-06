@@ -2,7 +2,7 @@
 
 よろしくお願いいたします。
 
-
+　
 下記がURLからアプリのdownloadも可能です。(monacaのダウンロードが必要です。)
 https://monaca.education/en/directimport?pid=5f28001ee7888553319a1592
 
