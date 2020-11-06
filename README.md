@@ -1,7 +1,7 @@
 制作したサイトの録画映像と、スマホアプリの動作映像を載せたファイルを添付してあります。よろしくお願いいたします。
 
 　
-下記がURLからアプリのdownloadも可能です。(monacaのダウンロードが必要です。)
+下記のURLからアプリのdownloadも可能です。(monacaのダウンロードが必要です。)
 https://monaca.education/en/directimport?pid=5f28001ee7888553319a1592
 
 
