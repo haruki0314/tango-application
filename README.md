@@ -3,7 +3,8 @@
 よろしくお願いいたします。
 
 
-
+下記がURLからアプリのdownloadも可能です。(monacaのダウンロードが必要です。)
+https://monaca.education/en/directimport?pid=5f28001ee7888553319a1592
 
 
 
@@ -17,5 +18,4 @@ ___アプリの説明
  データストアからデータを取得できないバグが発生可能性があります。
  もし動作画面に異常があれば、再起動していただきたいです。
 ___
-下記がURLからアプリのdownloadが可能です。(monacaのダウンロードが必要です。)
-https://monaca.education/en/directimport?pid=5f28001ee7888553319a1592
+
