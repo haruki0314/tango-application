@@ -1,0 +1,21 @@
+<ons-page id="AddCharacterSuccesfull">
+    <ons-toolbar>
+        <div class="left"><ons-back-button>Back</ons-back-button></div>
+        <div class="center">単語追加画面</div>
+    </ons-toolbar>
+
+    <div style="text-align: center">
+        
+        <p>解答を入力</p>
+        <input type="text" class="text-input"id="input_mondai" placeholder="問題"style="display:block; width:100%"value="">
+        <input type="text" class="text-input"id="input_kaitou" placeholder="解答"style="display:block; width:100%"value="">
+
+        <ons-button
+            onclick="onClicked()">
+            完了
+        </ons-button>
+        <ons-button onclick="myNavigator.pushPage('Body.html')"><!--poppage-->
+        元のページに戻る
+        </ons-button>
+    </div>
+</ons-page>
